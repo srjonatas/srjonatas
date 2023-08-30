@@ -1,4 +1,4 @@
-<!--
+
 👋 Olá, eu sou o Jonatas!
 
 💼 Sou um entusiasta do desenvolvimento backend e estudante na área de tecnologia. Atualmente, foco meus estudos em aprimorar minhas habilidades como desenvolvedor.
@@ -11,4 +11,4 @@
 🎓 Possuo formação técnica em informática, o que me proporcionou uma base sólida para a minha jornada no mundo da tecnologia.
 
 📫 Você pode entrar em contato comigo pelo jonatas118463@gmail.com ou https://www.linkedin.com/in/jonatas-santos-/. Estou aberto a conversas, colaborações e a compartilhar conhecimentos!
--->
+

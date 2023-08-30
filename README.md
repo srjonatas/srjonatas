@@ -1,16 +1,14 @@
-### Hi there 👋
-
 <!--
-**srjonatas/srjonatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá, eu sou o Jonatas!
 
-Here are some ideas to get you started:
+💼 Sou um entusiasta do desenvolvimento backend e estudante na área de tecnologia. Atualmente, foco meus estudos em aprimorar minhas habilidades como desenvolvedor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Tenho conhecimento em:
+   - Node.js e Javascript: Estou familiarizado com o lado do servidor e a programação para web.
+
+🌱 Estou sempre buscando aprender mais e explorar novas tecnologias para expandir minhas habilidades na área de desenvolvimento.
+
+🎓 Possuo formação técnica em informática, o que me proporcionou uma base sólida para a minha jornada no mundo da tecnologia.
+
+📫 Você pode entrar em contato comigo pelo jonatas118463@gmail.com ou https://www.linkedin.com/in/jonatas-santos-/. Estou aberto a conversas, colaborações e a compartilhar conhecimentos!
 -->
